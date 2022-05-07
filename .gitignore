@@ -1,3 +1,5 @@
 **.csv
 **.pkl
+**.pyc
 support-page/
+**/__pycache__/
